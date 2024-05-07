@@ -1,6 +1,6 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 ## Name : KUMARAVEL R
-## Date : 22-04-2024
+## Date : 15/04/2024
 ## Register Number : 212221220029
 ## Department : INFORMATION TECHONOLOGY
 ### Aim :
